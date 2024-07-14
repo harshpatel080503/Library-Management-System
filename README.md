@@ -2,7 +2,7 @@
 
 Develop a comprehensive Library Management System that allows users to manage book inventories, track borrower details, and handle transactions efficiently.
 
-Live site[here] (https://library-management-system-liard-zeta.vercel.app/)
+Live site: https://library-management-system-liard-zeta.vercel.app/
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
