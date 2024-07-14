@@ -24,4 +24,4 @@ This project utilises the following technologies:
 Before you begin, ensure you have the following installed:
 
 - [Flutter](https://flutter.dev/docs/get-started/install) (latest stable version)
-
+- [Python](https://www.python.org/downloads/) (version 3.6 or higher)
